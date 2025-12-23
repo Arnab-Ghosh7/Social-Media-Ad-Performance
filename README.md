@@ -58,4 +58,4 @@ The analysis covers several key performance indicators (KPIs):
 This project is open-source. Please see the `LICENSE` file for more details.
 
 ## Author
-- **[Arnab Ghosh]
+Arnab Ghosh
