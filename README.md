@@ -59,5 +59,5 @@ The analysis covers several key performance indicators (KPIs):
 ## 📜 License
 This project is open-source. Please see the `LICENSE` file for more details.
 
-## Author
+## 👤 Author
 Arnab Ghosh
