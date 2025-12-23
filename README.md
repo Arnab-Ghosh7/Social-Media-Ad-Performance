@@ -17,6 +17,8 @@ It simulates a real-world data pipeline, handling thousands of interaction recor
 ## 📂 Project Structure
 The repository is organized as follows:
 
+<pre>
+
 - **`Data/`**: Contains the raw CSV datasets used for analysis.
     - `ad_events.csv`: Logs of user interactions (Likes, Shares, Impressions) with timestamps.
     - `ads.csv`: Information about specific ads, including platform and target demographics.
@@ -28,7 +30,7 @@ The repository is organized as follows:
     - `SocialMediaAdPerformance.pbit`: Power BI Template file.
     - `SocialMediaAdPerformance.pdf`: PDF export of the report.
 - **`PowerBi .png`**: Snapshot of the dashboard.
-
+</pre>
 ## 🛠️ Technologies Used
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
